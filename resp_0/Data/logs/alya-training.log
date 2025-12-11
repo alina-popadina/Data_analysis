@@ -1,0 +1,104 @@
+Scenario - training
+Logfile written - 05/05/2025 12:37:24
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+alya	0	Picture	Pause1	-14984058	-14984058	1	15089730	1	0	next	other	0
+alya	1	Picture	Pause1	833	0	1	5167	2	0	next	other	0
+alya	2	Picture	Fix_Cross	6000	0	1	30169	2	0	next	other	0
+alya	3	Picture	Pause2	36168	0	1	6167	1	0	next	other	0
+alya	4	Picture	Image2	42335	0	1	12992	11	0	next	other	0
+alya	4	Response	1	55107	12771	1
+alya	5	Picture	Mask	55327	0	10	1176	11	0	next	other	0
+alya	6	Picture	Pause1	56503	0	1	5167	1	0	next	other	0
+alya	7	Picture	Fix_Cross	61670	0	1	30168	1	0	next	other	0
+alya	8	Picture	Pause2	91838	0	1	5999	3	0	next	other	0
+alya	9	Picture	Image6	97836	0	3	6502	3	0	next	other	0
+alya	9	Response	2	104066	6230	1
+alya	11	Picture	Mask	104339	15088396	1	-15088396	1	0	next	other	0
+alya	12	Picture	Fix_Cross	105672	0	1	30168	1	0	next	other	0
+alya	13	Picture	Pause2	135840	0	1	6167	1	0	next	other	0
+alya	14	Picture	Image14	142007	0	1	11167	1	0	next	other	0
+alya	14	Response	1	152867	10860	1
+alya	15	Picture	Mask	153175	0	1	1167	1	0	next	other	0
+alya	16	Picture	Pause1	154341	0	1	5167	1	0	next	other	0
+alya	17	Picture	Fix_Cross	159508	0	1	30168	1	0	next	other	0
+alya	18	Picture	Pause2	189677	0	1	6167	1	0	next	other	0
+alya	19	Picture	Image11	195843	0	1	5660	9	0	next	other	0
+alya	19	Response	1	201347	5503	1
+alya	20	Picture	Mask	201503	0	8	1174	9	0	next	other	0
+alya	21	Picture	Pause1	202677	0	1	5167	1	0	next	other	0
+alya	22	Picture	Fix_Cross	207844	0	1	30160	10	0	next	other	0
+alya	23	Picture	Pause2	238004	0	10	6176	10	0	next	other	0
+alya	24	Picture	Image7	244179	0	1	6000	1	0	next	other	0
+alya	24	Response	2	249987	5808	1
+alya	25	Picture	Mask	250180	0	1	1167	1	0	next	other	0
+alya	26	Picture	Pause1	251347	0	1	5167	1	0	next	other	0
+alya	27	Picture	Fix_Cross	256514	0	1	30168	1	0	next	other	0
+alya	28	Picture	Pause2	286682	0	1	6167	2	0	next	other	0
+alya	29	Picture	Image4	292849	0	1	6500	2	0	next	other	0
+alya	29	Response	1	299107	6258	1
+alya	30	Picture	Mask	299349	0	1	1167	2	0	next	other	0
+alya	31	Picture	Pause1	300516	0	1	5167	1	0	next	other	0
+alya	32	Picture	Fix_Cross	305683	0	1	30168	1	0	next	other	0
+alya	33	Picture	Pause2	335851	0	1	6001	1	0	next	other	0
+alya	34	Picture	Image1	341852	0	1	5000	1	0	next	other	0
+alya	34	Response	1	346627	4775	1
+alya	35	Picture	Mask	346852	0	1	1167	1	0	next	other	0
+alya	36	Picture	Pause1	348019	0	1	5167	2	0	next	other	0
+alya	37	Picture	Fix_Cross	353185	0	1	30168	2	0	next	other	0
+alya	38	Picture	Pause2	383354	0	1	6167	2	0	next	other	0
+alya	39	Picture	Image12	389521	0	1	17826	10	0	next	other	0
+alya	39	Response	2	407107	17586	1
+alya	40	Picture	Mask	407346	0	10	1175	10	0	next	other	0
+alya	41	Picture	Pause1	408522	0	1	5167	1	0	next	other	0
+alya	42	Picture	Fix_Cross	413689	0	1	30168	1	0	next	other	0
+alya	43	Picture	Pause2	443857	0	1	6158	11	0	next	other	0
+alya	44	Picture	Image5	450015	0	11	5343	11	0	next	other	0
+alya	44	Response	1	455107	5092	1
+alya	45	Picture	Mask	455358	0	1	1167	1	0	next	other	0
+alya	46	Picture	Pause1	456524	0	1	5167	1	0	next	other	0
+alya	47	Picture	Fix_Cross	461691	0	1	30168	1	0	next	other	0
+alya	48	Picture	Pause2	491860	0	1	5992	10	0	next	other	0
+alya	49	Picture	Image8	497851	0	10	6342	10	0	next	other	0
+alya	49	Response	1	503907	6056	1
+alya	50	Picture	Mask	504194	0	1	1167	1	0	next	other	0
+alya	51	Picture	Pause1	505361	0	1	5167	1	0	next	other	0
+alya	52	Picture	Fix_Cross	510527	0	1	30168	1	0	next	other	0
+alya	53	Picture	Pause2	540696	0	1	6167	2	0	next	other	0
+alya	54	Picture	Image3	546863	0	1	6992	11	0	next	other	0
+alya	54	Response	2	553667	6804	1
+alya	55	Picture	Mask	553854	0	10	1176	10	0	next	other	0
+alya	56	Picture	Pause1	555030	0	1	5167	1	0	next	other	0
+alya	57	Picture	Fix_Cross	560197	0	1	30168	1	0	next	other	0
+alya	58	Picture	Pause2	590365	0	1	6167	1	0	next	other	0
+alya	59	Picture	Image10	596532	0	1	15325	11	0	next	other	0
+alya	59	Response	1	611747	15215	1
+alya	60	Picture	Mask	611857	0	11	1176	11	0	next	other	0
+alya	61	Picture	Pause1	613033	0	1	5167	1	0	next	other	0
+alya	62	Picture	Fix_Cross	618200	0	1	30168	1	0	next	other	0
+alya	63	Picture	Pause2	648368	0	1	6167	1	0	next	other	0
+alya	64	Picture	Image9	654535	0	1	16501	1	0	next	other	0
+alya	64	Response	1	670947	16412	1
+alya	65	Picture	Mask	671036	0	1	1167	2	0	next	other	0
+alya	66	Picture	Pause1	672203	0	1	5158	11	0	next	other	0
+alya	67	Picture	Fix_Cross	677361	0	10	30168	20	0	next	other	0
+alya	68	Picture	Pause2	707529	0	10	6176	11	0	next	other	0
+alya	69	Picture	Image13	713705	0	1	6667	1	0	next	other	0
+alya	69	Response	1	720228	6523	1
+alya	70	Picture	Mask	720372	0	1	17796	1	0	next	other	0
+
+
+{
+   "app": "Presentation Version 23.0 Build 10.27.21",
+   "device": "System manufacturer System Product Name",
+   "experiment": "{7EFF88DD-9400-4453-A5C3-9828F796A1EC}",
+   "os": "Windows 10 64 bit",
+   "package": "",
+   "parameters": {
+      "configuration": "Default configuration"
+   },
+   "scenario": "training.sce",
+   "subject": "alya",
+   "timestamp": "2025/05/05 09:36:01 GMT"
+}

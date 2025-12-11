@@ -1,0 +1,380 @@
+Scenario - exp_12_b
+Logfile written - 05/05/2025 11:54:42
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+alya	1	Picture	Pause1	666	0	1	5167	1	0	next	other	0
+alya	2	Picture	Fix_Cross	5833	0	1	30168	1	0	next	other	0
+alya	3	Picture	Pause2	36002	0	1	6167	1	0	next	other	0
+alya	4	Picture	Image57	42169	0	1	45002	1	0	next	other	0
+alya	4	Response	1	87009	44841	1
+alya	5	Picture	Mask	87171	0	1	1167	1	0	next	other	0
+alya	6	Picture	Pause1	88338	0	1	5167	1	0	next	other	0
+alya	7	Picture	Fix_Cross	93505	0	1	30168	1	0	next	other	0
+alya	8	Picture	Pause2	123673	0	1	6167	1	0	next	other	0
+alya	9	Picture	Image5	129840	0	1	141175	1	0	next	other	0
+alya	9	Response	0	270849	141009	1
+alya	10	Picture	Mask	271014	0	1	1167	1	0	next	other	0
+alya	11	Picture	Pause1	272181	0	1	5167	1	0	next	other	0
+alya	12	Picture	Fix_Cross	277348	0	1	30168	2	0	next	other	0
+alya	13	Picture	Pause2	307516	0	1	6158	11	0	next	other	0
+alya	14	Picture	Image16	313674	0	10	24844	11	0	next	other	0
+alya	14	Response	1	338209	24534	1
+alya	15	Picture	Mask	338518	0	1	1167	1	0	next	other	0
+alya	16	Picture	Pause1	339685	0	1	5167	1	0	next	other	0
+alya	17	Picture	Fix_Cross	344852	0	1	30168	1	0	next	other	0
+alya	18	Picture	Pause2	375020	0	1	6167	1	0	next	other	0
+alya	19	Picture	Image34	381187	0	1	34002	1	0	next	other	0
+alya	19	Response	1	415009	33822	1
+alya	20	Picture	Mask	415189	0	1	1167	1	0	next	other	0
+alya	21	Picture	Pause1	416356	0	1	5158	10	0	next	other	0
+alya	22	Picture	Fix_Cross	421514	0	10	30177	10	0	next	other	0
+alya	23	Picture	Pause2	451691	0	1	6167	1	0	next	other	0
+alya	24	Picture	Image54	457858	0	1	85171	1	0	next	other	0
+alya	24	Response	1	542850	84992	1
+alya	25	Picture	Mask	543029	0	1	1167	1	0	next	other	0
+alya	26	Picture	Pause1	544196	0	1	5167	1	0	next	other	0
+alya	27	Picture	Fix_Cross	549363	0	1	30168	1	0	next	other	0
+alya	28	Picture	Pause2	579531	0	1	6000	2	0	next	other	0
+alya	29	Picture	Image27	585531	0	1	51836	2	0	next	other	0
+alya	29	Response	1	637089	51558	1
+alya	30	Picture	Mask	637368	0	1	1158	11	0	next	other	0
+alya	31	Picture	Pause1	638525	0	10	5176	11	0	next	other	0
+alya	32	Picture	Fix_Cross	643701	0	1	30168	1	0	next	other	0
+alya	33	Picture	Pause2	673870	0	1	6167	1	0	next	other	0
+alya	34	Picture	Image18	680037	0	1	31668	1	0	next	other	0
+alya	34	Response	1	711490	31453	1
+alya	35	Picture	Mask	711705	0	1	1167	1	0	next	other	0
+alya	36	Picture	Pause1	712872	0	1	5167	1	0	next	other	0
+alya	37	Picture	Fix_Cross	718039	0	1	30168	1	0	next	other	0
+alya	38	Picture	Pause2	748207	0	1	6167	1	0	next	other	0
+alya	39	Picture	Image49	754374	0	1	25668	1	0	next	other	0
+alya	39	Response	1	779810	25436	1
+alya	40	Picture	Mask	780042	0	1	1167	1	0	next	other	0
+alya	41	Picture	Pause1	781209	0	1	5167	1	0	next	other	0
+alya	42	Picture	Fix_Cross	786376	0	1	30159	11	0	next	other	0
+alya	43	Picture	Pause2	816535	0	10	6176	11	0	next	other	0
+alya	44	Picture	Image17	822711	0	1	9660	9	0	next	other	0
+alya	44	Response	1	832130	9419	1
+alya	45	Picture	Mask	832371	0	9	1174	9	0	next	other	0
+alya	46	Picture	Pause1	833545	0	1	5167	2	0	next	other	0
+alya	47	Picture	Fix_Cross	838712	0	1	30168	1	0	next	other	0
+alya	48	Picture	Pause2	868880	0	1	6167	2	0	next	other	0
+alya	49	Picture	Image41	875047	0	1	73504	2	0	next	other	0
+alya	49	Response	1	948290	73242	1
+alya	50	Picture	Mask	948551	0	1	1167	1	0	next	other	0
+alya	51	Picture	Pause1	949718	0	1	5158	11	0	next	other	0
+alya	52	Picture	Fix_Cross	954876	0	10	30177	11	0	next	other	0
+alya	53	Picture	Pause2	985053	0	1	6000	2	0	next	other	0
+alya	54	Picture	Image36	991054	0	1	21168	1	0	next	other	0
+alya	54	Response	1	1012130	21077	1
+alya	55	Picture	Mask	1012222	0	1	1167	1	0	next	other	0
+alya	56	Picture	Pause1	1013388	0	1	5167	1	0	next	other	0
+alya	57	Picture	Fix_Cross	1018555	0	1	30168	1	0	next	other	0
+alya	58	Picture	Pause2	1048724	0	1	6167	2	0	next	other	0
+alya	59	Picture	Image21	1054890	0	1	15334	2	0	next	other	0
+alya	59	Response	1	1070050	15159	1
+alya	60	Picture	Mask	1070225	0	1	1167	1	0	next	other	0
+alya	61	Picture	Pause1	1071392	0	1	5167	1	0	next	other	0
+alya	62	Picture	Fix_Cross	1076558	0	1	30168	1	0	next	other	0
+alya	63	Picture	Pause2	1106727	0	1	6167	1	0	next	other	0
+alya	64	Picture	Image52	1112894	0	1	24668	1	0	next	other	0
+alya	64	Response	1	1137410	24517	1
+alya	65	Picture	Mask	1137562	0	1	1167	1	0	next	other	0
+alya	66	Picture	Pause1	1138728	0	1	5167	1	0	next	other	0
+alya	67	Picture	Fix_Cross	1143895	0	1	30168	1	0	next	other	0
+alya	68	Picture	Pause2	1174064	0	1	6159	10	0	next	other	0
+alya	69	Picture	Image56	1180223	0	9	84837	20	0	next	other	0
+alya	69	Response	0	1264930	84707	1
+alya	70	Picture	Mask	1265059	0	11	1176	11	0	next	other	0
+alya	71	Picture	Pause1	1266236	0	1	5167	1	0	next	other	0
+alya	72	Picture	Fix_Cross	1271402	0	1	30159	11	0	next	other	0
+alya	73	Picture	Pause2	1301561	0	10	6010	11	0	next	other	0
+alya	74	Picture	Image42	1307571	0	1	15334	1	0	next	other	0
+alya	74	Response	1	1322850	15279	1
+alya	75	Picture	Mask	1322905	0	1	1167	1	0	next	other	0
+alya	76	Picture	Pause1	1324072	0	1	5167	2	0	next	other	0
+alya	77	Picture	Fix_Cross	1329239	0	1	30168	2	0	next	other	0
+alya	78	Picture	Pause2	1359407	0	1	6167	1	0	next	other	0
+alya	79	Picture	Image37	1365574	0	1	13667	1	0	next	other	0
+alya	79	Response	1	1379170	13596	1
+alya	80	Picture	Mask	1379242	0	1	1167	2	0	next	other	0
+alya	81	Picture	Pause1	1380408	0	1	5167	1	0	next	other	0
+alya	82	Picture	Fix_Cross	1385575	0	1	30168	1	0	next	other	0
+alya	83	Picture	Pause2	1415744	0	1	6167	1	0	next	other	0
+alya	84	Picture	Image10	1421911	0	1	51170	1	0	next	other	0
+alya	84	Response	1	1472930	51020	1
+alya	85	Picture	Mask	1473080	0	1	1167	1	0	next	other	0
+alya	86	Picture	Pause1	1474247	0	1	5167	1	0	next	other	0
+alya	87	Picture	Fix_Cross	1479414	0	1	30168	1	0	next	other	0
+alya	88	Picture	Pause2	1509582	0	1	5992	10	0	next	other	0
+alya	89	Picture	Image51	1515574	0	9	60011	10	0	next	other	0
+alya	89	Response	0	1575490	59915	1
+alya	90	Picture	Mask	1575586	0	1	1167	1	0	next	other	0
+alya	91	Picture	Pause1	1576752	0	1	5158	11	0	next	other	0
+alya	92	Picture	Fix_Cross	1581910	0	10	30177	11	0	next	other	0
+alya	93	Picture	Pause2	1612088	0	1	6167	1	0	next	other	0
+alya	94	Picture	Image8	1618255	0	1	55170	1	0	next	other	0
+alya	94	Response	1	1673251	54996	1
+alya	95	Picture	Mask	1673424	0	1	1167	1	0	next	other	0
+alya	96	Picture	Pause1	1674591	0	1	5167	1	0	next	other	0
+alya	97	Picture	Fix_Cross	1679758	0	1	30159	11	0	next	other	0
+alya	98	Picture	Pause2	1709917	0	11	6176	11	0	next	other	0
+alya	99	Picture	Image20	1716093	0	1	22168	1	0	next	other	0
+alya	99	Response	0	1738051	21957	1
+alya	100	Picture	Mask	1738261	0	1	1167	1	0	next	other	0
+alya	101	Picture	Pause1	1739428	0	1	5167	1	0	next	other	0
+alya	102	Picture	Fix_Cross	1744595	0	1	30168	1	0	next	other	0
+alya	103	Picture	Pause2	1774763	0	1	6167	2	0	next	other	0
+alya	104	Picture	Image39	1780930	0	1	79662	11	0	next	other	0
+alya	104	Response	1	1860451	79521	1
+alya	105	Picture	Mask	1860592	0	11	1176	11	0	next	other	0
+alya	106	Picture	Pause1	1861768	0	1	5158	11	0	next	other	0
+alya	107	Picture	Fix_Cross	1866926	0	11	30178	11	0	next	other	0
+alya	108	Picture	Pause2	1897103	0	1	6159	10	0	next	other	0
+alya	109	Picture	Image29	1903262	0	9	85346	10	0	next	other	0
+alya	109	Response	0	1988451	85189	1
+alya	110	Picture	Mask	1988608	0	1	1167	2	0	next	other	0
+alya	111	Picture	Pause1	1989775	0	1	5167	2	0	next	other	0
+alya	112	Picture	Fix_Cross	1994942	0	1	30159	11	0	next	other	0
+alya	113	Picture	Pause2	2025101	0	11	6176	11	0	next	other	0
+alya	114	Picture	Image47	2031277	0	1	10991	11	0	next	other	0
+alya	114	Response	1	2042211	10934	1
+alya	115	Picture	Mask	2042268	0	11	1176	12	0	next	other	0
+alya	116	Picture	Pause1	2043444	0	2	5168	2	0	next	other	0
+alya	117	Picture	Fix_Cross	2048612	0	1	30161	9	0	next	other	0
+alya	118	Picture	Pause2	2078773	0	8	6006	11	0	next	other	0
+alya	119	Picture	Image23	2084779	0	3	52496	12	0	next	other	0
+alya	119	Response	0	2137092	52313	1
+alya	120	Picture	Mask	2137274	0	10	1175	10	0	next	other	0
+alya	121	Picture	Pause1	2138450	0	1	5158	11	0	next	other	0
+alya	122	Picture	Fix_Cross	2143607	0	10	30178	11	0	next	other	0
+alya	123	Picture	Pause2	2173785	0	1	5991	11	0	next	other	0
+alya	124	Picture	Image44	2179776	0	10	21844	11	0	next	other	0
+alya	124	Response	1	2201411	21635	1
+alya	125	Picture	Mask	2201620	0	1	1158	11	0	next	other	0
+alya	126	Picture	Pause1	2202778	0	10	5176	11	0	next	other	0
+alya	127	Picture	Fix_Cross	2207954	0	1	30161	9	0	next	other	0
+alya	128	Picture	Pause2	2238115	0	8	6165	19	0	next	other	0
+alya	129	Picture	Image1	2244279	0	11	242189	11	0	next	other	0
+alya	129	Response	0	2486371	242092	1
+alya	130	Picture	Mask	2486469	0	1	1167	1	0	next	other	0
+alya	131	Picture	Pause1	2487636	0	1	5167	1	0	next	other	0
+alya	132	Picture	Fix_Cross	2492802	0	1	30168	1	0	next	other	0
+alya	133	Picture	Pause2	2522971	0	1	6167	1	0	next	other	0
+alya	134	Picture	Image32	2529138	0	1	9001	1	0	next	other	0
+alya	134	Response	1	2538052	8914	1
+alya	135	Picture	Mask	2538138	0	1	1167	1	0	next	other	0
+alya	136	Picture	Pause1	2539305	0	1	5167	1	0	next	other	0
+alya	137	Picture	Fix_Cross	2544472	0	1	30169	1	0	next	other	0
+alya	138	Picture	Pause2	2574640	0	1	6167	1	0	next	other	0
+alya	139	Picture	Image15	2580807	0	1	18168	1	0	next	other	0
+alya	139	Response	1	2598851	18044	1
+alya	140	Picture	Mask	2598975	0	1	1167	1	0	next	other	0
+alya	141	Picture	Pause1	2600142	0	1	5167	1	0	next	other	0
+alya	142	Picture	Fix_Cross	2605309	0	1	30159	11	0	next	other	0
+alya	143	Picture	Pause2	2635468	0	11	6176	11	0	next	other	0
+alya	144	Picture	Image6	2641644	0	1	16501	1	0	next	other	0
+alya	144	Response	1	2658052	16408	1
+alya	145	Picture	Mask	2658145	0	1	1167	1	0	next	other	0
+alya	146	Picture	Pause1	2659312	0	1	5167	1	0	next	other	0
+alya	147	Picture	Fix_Cross	2664479	0	1	30168	1	0	next	other	0
+alya	148	Picture	Pause2	2694647	0	1	6167	1	0	next	other	0
+alya	149	Picture	Image12	2700814	0	1	59337	1	0	next	other	0
+alya	149	Response	1	2759972	59158	1
+alya	150	Picture	Mask	2760150	0	1	1167	1	0	next	other	0
+alya	151	Picture	Pause1	2761317	0	1	5167	1	0	next	other	0
+alya	152	Picture	Fix_Cross	2766484	0	1	30168	1	0	next	other	0
+alya	153	Picture	Pause2	2796652	0	1	6167	1	0	next	other	0
+alya	154	Picture	Image4	2802819	0	1	28002	1	0	next	other	0
+alya	154	Response	0	2830692	27872	1
+alya	155	Picture	Mask	2830821	0	1	1167	1	0	next	other	0
+alya	156	Picture	Pause1	2831988	0	1	5157	11	0	next	other	0
+alya	157	Picture	Fix_Cross	2837145	0	11	30178	11	0	next	other	0
+alya	158	Picture	Pause2	2867323	0	1	6167	1	0	next	other	0
+alya	159	Picture	Image24	2873490	0	1	9167	1	0	next	other	0
+alya	159	Response	1	2882532	9042	1
+alya	160	Picture	Mask	2882657	0	1	1167	1	0	next	other	0
+alya	161	Picture	Pause1	2883824	0	1	5167	1	0	next	other	0
+alya	162	Picture	Fix_Cross	2888991	0	1	30168	1	0	next	other	0
+alya	163	Picture	Pause2	2919159	0	1	6167	2	0	next	other	0
+alya	164	Picture	Image40	2925326	0	1	78171	1	0	next	other	0
+alya	164	Response	1	3003332	78006	1
+alya	165	Picture	Mask	3003497	0	1	1167	1	0	next	other	0
+alya	166	Picture	Pause1	3004664	0	1	5167	1	0	next	other	0
+alya	167	Picture	Fix_Cross	3009831	0	1	30168	1	0	next	other	0
+alya	168	Picture	Pause2	3039999	0	1	6167	1	0	next	other	0
+alya	169	Picture	Image3	3046166	0	1	16825	11	0	next	other	0
+alya	169	Response	1	3062852	16686	1
+alya	170	Picture	Mask	3062991	0	11	1176	11	0	next	other	0
+alya	171	Picture	Pause1	3064167	0	1	5167	1	0	next	other	0
+alya	172	Picture	Fix_Cross	3069334	0	1	30168	1	0	next	other	0
+alya	173	Picture	Pause2	3099502	0	1	6167	1	0	next	other	0
+alya	174	Picture	Image28	3105669	0	1	17658	11	0	next	other	0
+alya	174	Response	1	3123172	17503	1
+alya	175	Picture	Mask	3123328	0	11	1176	11	0	next	other	0
+alya	176	Picture	Pause1	3124504	0	1	5160	8	0	next	other	0
+alya	177	Picture	Fix_Cross	3129664	0	8	30175	8	0	next	other	0
+alya	178	Picture	Pause2	3159839	0	1	6159	9	0	next	other	0
+alya	179	Picture	Image50	3165998	0	9	95180	9	0	next	other	0
+alya	179	Response	0	3261092	95094	1
+alya	180	Picture	Mask	3261178	0	1	1167	1	0	next	other	0
+alya	181	Picture	Pause1	3262345	0	1	5167	1	0	next	other	0
+alya	182	Picture	Fix_Cross	3267512	0	1	30168	1	0	next	other	0
+alya	183	Picture	Pause2	3297680	0	1	6167	1	0	next	other	0
+alya	184	Picture	Image26	3303847	0	1	8667	1	0	next	other	0
+alya	184	Response	1	3312452	8606	1
+alya	185	Picture	Mask	3312514	0	1	1167	1	0	next	other	0
+alya	186	Picture	Pause1	3313681	0	1	5167	1	0	next	other	0
+alya	187	Picture	Fix_Cross	3318848	0	1	30168	1	0	next	other	0
+alya	188	Picture	Pause2	3349016	0	1	6159	9	0	next	other	0
+alya	189	Picture	Image53	3355175	0	9	5841	9	0	next	other	0
+alya	189	Response	1	3360933	5757	1
+alya	190	Picture	Mask	3361017	0	1	1160	8	0	next	other	0
+alya	191	Picture	Pause1	3362176	0	8	5174	8	0	next	other	0
+alya	192	Picture	Fix_Cross	3367350	0	1	30168	1	0	next	other	0
+alya	193	Picture	Pause2	3397519	0	1	6167	1	0	next	other	0
+alya	194	Picture	Image7	3403686	0	1	16834	1	0	next	other	0
+alya	194	Response	1	3420453	16767	1
+alya	195	Picture	Mask	3420520	0	1	1167	1	0	next	other	0
+alya	196	Picture	Pause1	3421687	0	1	5167	1	0	next	other	0
+alya	197	Picture	Fix_Cross	3426854	0	1	30168	1	0	next	other	0
+alya	198	Picture	Pause2	3457022	0	1	6167	1	0	next	other	0
+alya	199	Picture	Image9	3463189	0	1	25835	1	0	next	other	0
+alya	199	Response	1	3488932	25743	1
+alya	200	Picture	Mask	3489024	0	1	1167	1	0	next	other	0
+alya	201	Picture	Pause1	3490190	0	1	5158	11	0	next	other	0
+alya	202	Picture	Fix_Cross	3495348	0	11	30178	11	0	next	other	0
+alya	203	Picture	Pause2	3525526	0	1	6167	1	0	next	other	0
+alya	204	Picture	Image48	3531693	0	1	41002	1	0	next	other	0
+alya	204	Response	1	3572612	40920	1
+alya	205	Picture	Mask	3572695	0	1	1167	1	0	next	other	0
+alya	206	Picture	Pause1	3573862	0	1	5167	1	0	next	other	0
+alya	207	Picture	Fix_Cross	3579029	0	1	30168	1	0	next	other	0
+alya	208	Picture	Pause2	3609197	0	1	6167	1	0	next	other	0
+alya	209	Picture	Image38	3615364	0	1	60660	12	0	next	other	0
+alya	209	Response	0	3675973	60609	1
+alya	210	Picture	Mask	3676024	0	11	1177	12	0	next	other	0
+alya	211	Picture	Pause1	3677201	0	1	5167	1	0	next	other	0
+alya	212	Picture	Fix_Cross	3682368	0	1	30168	1	0	next	other	0
+alya	213	Picture	Pause2	3712536	0	1	6159	9	0	next	other	0
+alya	214	Picture	Image13	3718695	0	9	59011	9	0	next	other	0
+alya	214	Response	1	3777573	58878	1
+alya	215	Picture	Mask	3777706	0	1	1158	10	0	next	other	0
+alya	216	Picture	Pause1	3778864	0	9	5175	10	0	next	other	0
+alya	217	Picture	Fix_Cross	3784040	0	1	30168	1	0	next	other	0
+alya	218	Picture	Pause2	3814208	0	1	6167	1	0	next	other	0
+alya	219	Picture	Image33	3820375	0	1	10001	1	0	next	other	0
+alya	219	Response	1	3830213	9838	1
+alya	220	Picture	Mask	3830376	0	1	1167	1	0	next	other	0
+alya	221	Picture	Pause1	3831542	0	1	5158	11	0	next	other	0
+alya	222	Picture	Fix_Cross	3836700	0	11	30178	11	0	next	other	0
+alya	223	Picture	Pause2	3866878	0	1	5992	10	0	next	other	0
+alya	224	Picture	Image2	3872870	0	9	32010	10	0	next	other	0
+alya	224	Response	1	3904773	31903	1
+alya	225	Picture	Mask	3904880	0	1	1160	8	0	next	other	0
+alya	226	Picture	Pause1	3906040	0	8	5174	8	0	next	other	0
+alya	227	Picture	Fix_Cross	3911213	0	1	30168	1	0	next	other	0
+alya	228	Picture	Pause2	3941382	0	1	6167	1	0	next	other	0
+alya	229	Picture	Image22	3947549	0	1	10667	1	0	next	other	0
+alya	229	Response	1	3958053	10505	1
+alya	230	Picture	Mask	3958216	0	1	1167	1	0	next	other	0
+alya	231	Picture	Pause1	3959383	0	1	5167	1	0	next	other	0
+alya	232	Picture	Fix_Cross	3964550	0	1	30168	1	0	next	other	0
+alya	233	Picture	Pause2	3994718	0	1	6167	1	0	next	other	0
+alya	234	Picture	Image30	4000885	0	1	42503	1	0	next	other	0
+alya	234	Response	0	4043333	42448	1
+alya	235	Picture	Mask	4043387	0	1	1167	1	0	next	other	0
+alya	236	Picture	Pause1	4044554	0	1	5167	1	0	next	other	0
+alya	237	Picture	Fix_Cross	4049721	0	1	30168	1	0	next	other	0
+alya	238	Picture	Pause2	4079889	0	1	6167	1	0	next	other	0
+alya	239	Picture	Image14	4086056	0	1	14668	2	0	next	other	0
+alya	239	Response	1	4100614	14557	1
+alya	240	Picture	Mask	4100724	0	1	1167	1	0	next	other	0
+alya	241	Picture	Pause1	4101890	0	1	5167	1	0	next	other	0
+alya	242	Picture	Fix_Cross	4107057	0	1	30168	1	0	next	other	0
+alya	243	Picture	Pause2	4137226	0	1	6167	1	0	next	other	0
+alya	244	Picture	Image19	4143393	0	1	17168	1	0	next	other	0
+alya	244	Response	1	4160454	17061	1
+alya	245	Picture	Mask	4160560	0	1	1167	1	0	next	other	0
+alya	246	Picture	Pause1	4161727	0	1	5167	1	0	next	other	0
+alya	247	Picture	Fix_Cross	4166894	0	1	30161	8	0	next	other	0
+alya	248	Picture	Pause2	4197055	0	8	6174	8	0	next	other	0
+alya	249	Picture	Image46	4203229	0	1	79004	1	0	next	other	0
+alya	249	Response	0	4282054	78824	1
+alya	250	Picture	Mask	4282234	0	1	1158	10	0	next	other	0
+alya	251	Picture	Pause1	4283391	0	10	5176	11	0	next	other	0
+alya	252	Picture	Fix_Cross	4288567	0	1	30168	1	0	next	other	0
+alya	253	Picture	Pause2	4318736	0	1	5990	12	0	next	other	0
+alya	254	Picture	Image43	4324726	0	11	42512	12	0	next	other	0
+alya	254	Response	1	4367174	42448	1
+alya	255	Picture	Mask	4367238	0	1	1167	1	0	next	other	0
+alya	256	Picture	Pause1	4368405	0	1	5167	1	0	next	other	0
+alya	257	Picture	Fix_Cross	4373572	0	1	30168	1	0	next	other	0
+alya	258	Picture	Pause2	4403740	0	1	6166	2	0	next	other	0
+alya	259	Picture	Image11	4409907	0	2	37326	12	0	next	other	0
+alya	259	Response	1	4447173	37267	1
+alya	260	Picture	Mask	4447233	0	11	1169	18	0	next	other	0
+alya	261	Picture	Pause1	4448402	0	8	5174	8	0	next	other	0
+alya	262	Picture	Fix_Cross	4453576	0	1	30168	1	0	next	other	0
+alya	263	Picture	Pause2	4483745	0	1	6167	1	0	next	other	0
+alya	264	Picture	Image35	4489912	0	1	42660	10	0	next	other	0
+alya	264	Response	1	4532454	42542	1
+alya	265	Picture	Mask	4532572	0	10	1175	10	0	next	other	0
+alya	266	Picture	Pause1	4533747	0	1	5167	1	0	next	other	0
+alya	267	Picture	Fix_Cross	4538914	0	1	30159	12	0	next	other	0
+alya	268	Picture	Pause2	4569073	0	11	6009	13	0	next	other	0
+alya	269	Picture	Image45	4575081	0	3	55005	3	0	next	other	0
+alya	269	Response	0	4629893	54812	1
+alya	270	Picture	Mask	4630086	0	1	1167	1	0	next	other	0
+alya	271	Picture	Pause1	4631253	0	1	5167	1	0	next	other	0
+alya	272	Picture	Fix_Cross	4636420	0	1	30168	1	0	next	other	0
+alya	273	Picture	Pause2	4666588	0	1	6167	1	0	next	other	0
+alya	274	Picture	Image55	4672755	0	1	30168	1	0	next	other	0
+alya	274	Response	1	4702854	30099	1
+alya	275	Picture	Mask	4702923	0	1	1167	1	0	next	other	0
+alya	276	Picture	Pause1	4704090	0	1	5167	1	0	next	other	0
+alya	277	Picture	Fix_Cross	4709257	0	1	30168	1	0	next	other	0
+alya	278	Picture	Pause2	4739425	0	1	6167	2	0	next	other	0
+alya	279	Picture	Image58	4745592	0	1	16668	2	0	next	other	0
+alya	279	Response	1	4762054	16462	1
+alya	280	Picture	Mask	4762260	0	1	1167	1	0	next	other	0
+alya	281	Picture	Pause1	4763427	0	1	5167	1	0	next	other	0
+alya	282	Picture	Fix_Cross	4768594	0	1	30168	1	0	next	other	0
+alya	283	Picture	Pause2	4798762	0	1	6159	9	0	next	other	0
+alya	284	Picture	Image59	4804921	0	9	40667	19	0	next	other	0
+alya	284	Response	1	4845414	40492	1
+alya	285	Picture	Mask	4845588	0	11	1176	11	0	next	other	0
+alya	286	Picture	Pause1	4846764	0	1	5158	11	0	next	other	0
+alya	287	Picture	Fix_Cross	4851922	0	10	30168	21	0	next	other	0
+alya	288	Picture	Pause2	4882090	0	11	6167	20	0	next	other	0
+alya	289	Picture	Image31	4888258	0	10	15510	11	0	next	other	0
+alya	289	Response	1	4903654	15396	1
+alya	290	Picture	Mask	4903768	0	1	1167	1	0	next	other	0
+alya	291	Picture	Pause1	4904934	0	1	5167	1	0	next	other	0
+alya	292	Picture	Fix_Cross	4910101	0	1	30168	1	0	next	other	0
+alya	293	Picture	Pause2	4940270	0	1	6167	1	0	next	other	0
+alya	294	Picture	Image50	4946437	0	1	37669	1	0	next	other	0
+alya	294	Response	1	4983974	37538	1
+alya	295	Picture	Mask	4984105	0	1	1160	8	0	next	other	0
+alya	296	Picture	Pause1	4985265	0	8	5174	8	0	next	other	0
+alya	297	Picture	Fix_Cross	4990439	0	1	30168	1	0	next	other	0
+alya	298	Picture	Pause2	5020607	0	1	6167	1	0	next	other	0
+alya	299	Picture	Image25	5026774	0	1	32835	1	0	next	other	0
+alya	299	Response	1	5059494	32720	1
+alya	300	Picture	Mask	5059609	0	1	19493	1	0	next	other	0
+
+
+{
+   "app": "Presentation Version 23.0 Build 10.27.21",
+   "device": "System manufacturer System Product Name",
+   "experiment": "{7EFF88DD-9400-4453-A5C3-9828F796A1EC}",
+   "os": "Windows 10 64 bit",
+   "package": "",
+   "parameters": {
+      "configuration": "Default configuration"
+   },
+   "scenario": "exp_12_b.sce",
+   "subject": "alya",
+   "timestamp": "2025/05/05 08:46:05 GMT"
+}

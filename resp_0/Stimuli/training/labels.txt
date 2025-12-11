@@ -1,0 +1,14 @@
+C:\Users\Alina\Downloads\Mental_Rotation_and_Lab\eye_tracking\VisualSearch_updated_copy\Stimulus\zero_pilot\training\images\image_1.png True
+C:\Users\Alina\Downloads\Mental_Rotation_and_Lab\eye_tracking\VisualSearch_updated_copy\Stimulus\zero_pilot\training\images\image_2.png True
+C:\Users\Alina\Downloads\Mental_Rotation_and_Lab\eye_tracking\VisualSearch_updated_copy\Stimulus\zero_pilot\training\images\image_3.png False
+C:\Users\Alina\Downloads\Mental_Rotation_and_Lab\eye_tracking\VisualSearch_updated_copy\Stimulus\zero_pilot\training\images\image_4.png True
+C:\Users\Alina\Downloads\Mental_Rotation_and_Lab\eye_tracking\VisualSearch_updated_copy\Stimulus\zero_pilot\training\images\image_5.png True
+C:\Users\Alina\Downloads\Mental_Rotation_and_Lab\eye_tracking\VisualSearch_updated_copy\Stimulus\zero_pilot\training\images\image_6.png False
+C:\Users\Alina\Downloads\Mental_Rotation_and_Lab\eye_tracking\VisualSearch_updated_copy\Stimulus\zero_pilot\training\images\image_7.png False
+C:\Users\Alina\Downloads\Mental_Rotation_and_Lab\eye_tracking\VisualSearch_updated_copy\Stimulus\zero_pilot\training\images\image_8.png True
+C:\Users\Alina\Downloads\Mental_Rotation_and_Lab\eye_tracking\VisualSearch_updated_copy\Stimulus\zero_pilot\training\images\image_9.png True
+C:\Users\Alina\Downloads\Mental_Rotation_and_Lab\eye_tracking\VisualSearch_updated_copy\Stimulus\zero_pilot\training\images\image_10.png True
+C:\Users\Alina\Downloads\Mental_Rotation_and_Lab\eye_tracking\VisualSearch_updated_copy\Stimulus\zero_pilot\training\images\image_11.png True
+C:\Users\Alina\Downloads\Mental_Rotation_and_Lab\eye_tracking\VisualSearch_updated_copy\Stimulus\zero_pilot\training\images\image_12.png False
+C:\Users\Alina\Downloads\Mental_Rotation_and_Lab\eye_tracking\VisualSearch_updated_copy\Stimulus\zero_pilot\training\images\image_13.png True
+C:\Users\Alina\Downloads\Mental_Rotation_and_Lab\eye_tracking\VisualSearch_updated_copy\Stimulus\zero_pilot\training\images\image_14.png True
